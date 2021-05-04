@@ -184,7 +184,7 @@ namespace Calculadora
         {
             num1 = double.Parse(lblVisor.Text);
             
-            result = Math.Pow(num1, num2);
+            result = Math.Pow(num1, num1);
             operacaoUso = true;
             lblVisor.Text = Convert.ToString(result);
         }
