@@ -1,0 +1,44 @@
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alunodiurno\Desktop\PL_VIII_19-02-11\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+G:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Fatec\4°Ciclo\ILP580 Eletiva - Linguagem de Programação VIII - Linguagem VB.NET e ASP\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alunodiurno\Downloads\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MARIACAROLINAMARTINS\Documents\Fatec FInal Season\Zé Antonio\Calc\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
